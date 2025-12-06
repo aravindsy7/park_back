@@ -253,25 +253,10 @@ def video_feed():
         mimetype='multipart/x-mixed-replace; boundary=frame'
     )
 
-# --- Application start/stop ---
-if __name__ == '__main__':
-    try:
-        logger.info("=" * 60)
-        logger.info("🚀 Starting Parking Detection Server")
-        logger.info("=" * 60)
-        logger.info("🌐 Server: http://0.0.0.0:5000")
-        logger.info("📹 Video Feed: http://0.0.0.0:5000/video_feed")
-        logger.info("📊 API Status: http://0.0.0.0:5000/api/parking-status")
-        logger.info("❤️  Health Check: http://0.0.0.0:5000/api/health")
-        logger.info("✅ CORS: Enabled for all origins")
-        logger.info("=" * 60)
 
-        app.run(debug=False, host='0.0.0.0', port=5000, threaded=True, use_reloader=False)
-    except KeyboardInterrupt:
-        logger.info("Shutting down...")
-        if detector:
-            detector.stop()
-    except Exception as e:
-        logger.exception(f"❌ Error: {e}")
-        if detector:
-            detector.stop()
+
+# At the end of your app.py file, change:
+if __name__ == '__main__':
+    port = int(os.environ.get('PORT', 5000))
+    app.run(host='0.0.0.0', port=port, debug=False)
+    

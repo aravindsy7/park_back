@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "parking-multi",
+  "private_key_id": "9976e8cf22855234287b415ead473f03973a9a93",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQD8zxOsnbYJf1hk\nG6Av6p9YOPdFnPbHSpwIIZbYE1+TzfUlZgv9VEn+UUmiBH6z5RS7VMYa0MFjCtS1\nu8T+dk9uVoYdZu4vokHQjGAI5xABLK1GgpstI9zO3OJ65xVZQHLBM85yriqxrzEX\n5sxD6OT/jYqgBr4zHk/nOPZ/GUPNIhNCIcyiwfN9v9DzK8uD/XtaR/0gLCljYGoR\nkfwpmVqL9vn9i5s+LIsdMYOE9vD09kIJTNyevVElvfAS8/1fvwkTuVoP32Z/bIP8\nTqxIoKdRLPXTftVzQCBTqSLU8JnsZ2cmYFNUIWQLw4vDO6TA38mizbwQUMkwlsVV\ncouuZW3xAgMBAAECggEAEdD7qVh3f+GZPnvabQoPRwHDvmSOmTKrPqD0Xx+1ZoaX\nIla33VdzfABpTKldrwqjzIRvziu8V0EoBrM4EblPhX6ERt3uRw3brsl3yqTTEkwe\nXYfejP64JN14+hGfReoWdEJ1CAy5bkqDDpTJvDb1bYOhe3/iJ1rZZXmUmJY0mqgK\nYQCu1N23OuW1cFPGZ3kXkia6e2xHBWhqnEtTPxo2Gxu0ladGQxQLRqECTlAqanP5\nj6BI8mHiYmk97EOYcbPlTpTv/ZHtZ6N9F3hpUpB7thpiNQFIzBB+UsNyL9m5bthq\nlXpve5hBsw2ZZftT0vWmnEHviJuQQjz5xJGTGSO5yQKBgQD/5pGJbTSAAxhBWQEH\nbzTtEkBh8en1ZkAZi2E4SNmHxw520MSIdDuacApVesWju/Eh1ysS9y3edjceDq0E\n8hAYF6+0PcdcX9SJk6h1gTpdfzD9pUZaaPS8dg+TPep12cDfpDXOrqaQG6ih+p06\n1G86fz6VKXFjnGQCDXYsGA8AKQKBgQD86DN6jtnYkrTmgQaQ0xEtdNVYunEZGlxj\n6YcLCY2roiGAkhm2xCHLPwJdlf1omPNjWtTX0GDd8VjWoXgk4sFyXjUc6ele6tNO\nx244/1K1A0Ldeju77wdaEYHB5uLttxQO+Qlovmi1HeSHBVIJxKvyM0b/IUnBlgrJ\nA/iKJNaYiQKBgQDO3qIAqtuqMNZG3aDLVcc/b2XEyEAONh7Th62MRrgz32N+Ab8f\nYHdenfx8pcdoWeLRLJSRvGjEUmS0U8DjIpyIHX3ZA6hKsN2sakXg2BtKwivkoNuC\n8x4FzJtCuOb1ZpdZM/KbpuzXysRETckVae6RJ5R8GQilMiRW1HMXqktWIQKBgQCp\niI5ZrcDiqRWTHxLjqllte1A49mIyTbV5VGYuQ+0wDLMgmM+b8MYmlMplKdKBd2ZQ\nR+c99HW60bqXxg3fzBGZNQWtqC/EbO3RdWax1pX+uXztMq8wP/9RpUKyVK/yYjOU\nBeUEzf8qyisTR8HCwo/w/+aryAjFOGtqbLsC/8bK4QKBgQD5p16j190SENUSjNJS\nB6m9t2EE6IOSHxKIPRUS9+/u212FTxazxhPyGFahYt3Xt3fDDQTXJZY+mePTnCgA\nMp6rKhwsF0y2lLBYrtynlrX0qarT5/Cpmt/2ccbvl+XZv9OxDtp84m1Z5KKY+RS1\n/g1afXoc9WPcy6OU/zG0HhpwVg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@parking-multi.iam.gserviceaccount.com",
+  "client_id": "118220860886923584924",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40parking-multi.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
