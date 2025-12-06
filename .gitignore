@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.Python
+env/
+venv/
+
+# Environment
+.env
+.env.local
+
+# Large files & models
+*.pt
+*.weights
+*.mp4
+yolo-coco/
+
+# Sensitive
+serviceAccountKey.json
+
+# Duplicates (you have backup versions)
+app 2.py
+app 3.py
+parking_detector 2.py
+requirements 2.txt
+requirements 2.txt
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+
+# IDE
+.vscode/
+.idea/
+*.swp
