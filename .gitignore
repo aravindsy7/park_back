@@ -36,3 +36,4 @@ requirements 2.txt
 .vscode/
 .idea/
 *.swpmulti_camerclear
+.multicamerclear
