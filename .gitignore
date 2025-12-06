@@ -35,4 +35,4 @@ requirements 2.txt
 # IDE
 .vscode/
 .idea/
-*.swp
+*.swpmulti_camerclear
